@@ -1,3 +1,3 @@
 export default {
-  //base: '/ol-wps-workshop/'
+  base: '/ol-wps-workshop/'
 }
